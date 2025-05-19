@@ -34,10 +34,10 @@
 <section class="grid place-items-center text-white text-center mb-10 bg-zinc-500 text-zinc-100 p-6 rounded-lg shadow-md">
   <h2 class="text-3xl font-bold text-white mb-4">&lt;minha trajetória/&gt;</h2>
   <p class="text-2xl text-gray-300 max-w-6xl text-justify break-words">
-Meu contato com computadores começou nos meus cursos tecnícos de informática basica, 
-mas fui apresentado ao mundo da programação no meu Técnico em Informática feito na ETEC, onde tomei gosto pela área e iniciei a faculdade de Analise e Desenvolvimento de Sistemas na UNIMAR, para me aprofundar ainda mais nesse mundo.
- Estou pronto para dar o próximo passo e iniciar minha carreira profissional, contribuindo 
- com equipes e aprendendo na prática.
+    Meu contato com computadores começou nos meus cursos tecnícos de informática basica, 
+    mas fui apresentado ao mundo da programação no meu Técnico em Informática feito na ETEC, onde tomei gosto pela área e iniciei a faculdade de Analise e Desenvolvimento de Sistemas na UNIMAR, para me aprofundar ainda mais nesse mundo.
+    Estou pronto para dar o próximo passo e iniciar minha carreira profissional, contribuindo 
+    com equipes e aprendendo na prática.
   </p>
 </section>
 
